@@ -1,4 +1,6 @@
 ## Project Description: JavaScript Weather App with API
+![me](https://github.com/ataislucky/Javascript-weather-app-with-API/blob/main/prev_weather_js.jpg)
+![me](https://github.com/ataislucky/Javascript-weather-app-with-API/blob/main/prev_weather_js2.jpg)
 
 **This project aims to develop a dynamic and informative weather application using JavaScript, HTML, and CSS, leveraging an external weather API to provide real-time weather data.**
 
